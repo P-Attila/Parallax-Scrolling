@@ -1,5 +1,5 @@
-# 3d Header
+# Parallax Scrolling
 
 # You can try this App on this link:
 
-[3d Header](https://p-attila.github.io/3dHeader/)
+[Parallax Scrolling](https://p-attila.github.io/3dHeader/)
